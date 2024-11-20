@@ -1,7 +1,8 @@
 number = float(input("กรุณาป้อนตัวเลข: "))
 if number < 0:
-    print("ตัวเลขนี้เป็นจำนวนลบ")
+    print(" This number is positive.")
 elif number > 0:
-    print("ตัวเลขนี้เป็นจำนวนบวก")
+    print(" This number is negative")
 else:
-    print("ตัวเลขนี้เป็นบวกและลบ")
+    print("This number is both positive and negative.")
+    
