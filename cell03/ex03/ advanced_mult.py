@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Initialize the first loop to go over numbers 0 to 10
+
 i = 0
 while i <= 10:
    
